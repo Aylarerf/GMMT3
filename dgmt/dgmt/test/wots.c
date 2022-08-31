@@ -28,6 +28,7 @@ int main()
     unsigned char manager_key[params.n];
     
     uint32_t addr[8] = {0};
+    uint64_t    request_number[MAX_GROUP_MEMBER];
 
 
     dgmt_setup();
