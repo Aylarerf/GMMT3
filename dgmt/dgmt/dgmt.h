@@ -38,7 +38,7 @@
 #define DIR_FALLBACK    "./dgmmt/fallback/"
 
 //uint32_t    smt_instance[internal_imt_nodes];
-uint64_t    request_number[MAX_GROUP_MEMBER];
+
 
 void dgmt_setup();
 
